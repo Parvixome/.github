@@ -1,3 +1,3 @@
 <h1 align="center">
-  <img src="https://github.com/Parvixome/Parvixome/assets/122843056/b5bc76c5-747c-409f-a4dd-a04c46bae845" height="100"/>
+  <img src="https://github.com/Parvixome/.github/assets/122843056/2d13aaad-4c2a-43ff-b439-61fd21efe6b3" height="100"/>
 </h1>
